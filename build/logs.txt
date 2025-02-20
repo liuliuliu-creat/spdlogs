@@ -1,0 +1,9 @@
+[2025-02-20 17:02:06] [info] Welcome to spdlog!
+[2025-02-20 17:02:06] [error] Some error message with arg: 1
+[2025-02-20 17:02:06] [warning] Easy padding in numbers like 00000012
+[2025-02-20 17:02:06] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2025-02-20 17:02:06] [info] Support for floats 1.23
+[2025-02-20 17:02:06] [info] Positional args are supported too..
+[2025-02-20 17:02:06] [info] left aligned                  
+[2025-02-20 17:02:06] [debug] This message should be displayed..
+[2025-02-20 17:02:06] [debug] Some debug message

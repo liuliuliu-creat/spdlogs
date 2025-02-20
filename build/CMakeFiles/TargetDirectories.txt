@@ -1,0 +1,3 @@
+/home/lyx/logs/build/CMakeFiles/logger.dir
+/home/lyx/logs/build/CMakeFiles/edit_cache.dir
+/home/lyx/logs/build/CMakeFiles/rebuild_cache.dir
