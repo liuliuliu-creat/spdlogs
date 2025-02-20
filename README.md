@@ -33,3 +33,13 @@ vcpkg install spdlog
 ```
 ## Build the Project
 #### Clone the repository:
+```bash
+git clone https://github.com/liuliuliu-creat/spdlogs/tree/main
+```
+#### Create a build directory and compile:
+```bash
+mkdir build
+cd build
+cmake ..
+make
+```
