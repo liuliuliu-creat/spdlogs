@@ -43,3 +43,13 @@ cd build
 cmake ..
 make
 ```
+# Example Output
+## Console
+
+- **[12:34:56] Welcome to spdlog!
+- **[12:34:56] [error] Some error message with arg: 1
+- **File (logs.txt)
+## File (logs.txt)
+- **[2023-10-23 12:34:56] [info] Welcome to spdlog!
+- **[2023-10-23 12:34:56] [error] Some error message with arg: 1
+
