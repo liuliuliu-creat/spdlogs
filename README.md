@@ -1,5 +1,5 @@
 # 使用spdlog 库的简单 C++ 日志示例
-#🎉 欢迎来到 MyLoggerProject！ 🎉
+# 🎉 欢迎来到 MyLoggerProject！ 🎉
 - 这是一个使用 spdlog 库的简单 C++ 日志示例，演示了如何将日志输出到控制台和日志文件 (logs.txt)。
 
 # 🚀 特性
